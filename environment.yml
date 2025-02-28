@@ -1,0 +1,15 @@
+name: dlproject_new
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - pytorch
+  - torchvision
+  - pytorch-lightning
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+  - librosa
+  
